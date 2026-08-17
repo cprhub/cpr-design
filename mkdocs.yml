@@ -1,0 +1,61 @@
+site_name: Coding Pirates Rødovre · Design-hold
+site_description: Undervisningsmateriale til Coding Pirates Rødovres Design-hold
+site_url: https://REPLACE-WITH-YOUR-GITHUB-USERNAME.github.io/cpr-design/
+repo_url: https://github.com/REPLACE-WITH-YOUR-GITHUB-USERNAME/cpr-design
+repo_name: cpr-design
+docs_dir: docs
+
+theme:
+  name: material
+  language: da
+  logo: assets/logo.png       # læg det officielle CP-logo her (se assets/README.md)
+  favicon: assets/favicon.png
+  palette:
+    # Coding Pirates officielle farver
+    # Primær blå:  #25A2CE
+    # Primær gul:  #EFB422
+    - scheme: default
+      primary: custom
+      accent: custom
+  font: false                  # vi styrer fonte selv via extra.css (Bungee + Lato)
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
+  - i18n:
+      docs_structure: suffix
+      languages:
+        - locale: da
+          default: true
+          name: Dansk
+          build: true
+        - locale: en
+          name: English
+          build: true
+
+nav:
+  - Forside: index.md
+  - Efterår 2026:
+      - Oversigt: autumn-2026/index.md
+      - Design-hold:
+          - Oversigt: autumn-2026/design-hold/index.md
+          - Uge 1 · Opsætning & Tinkercad: autumn-2026/design-hold/week-01-opsaetning/index.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
