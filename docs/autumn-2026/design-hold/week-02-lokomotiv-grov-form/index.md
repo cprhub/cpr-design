@@ -8,28 +8,6 @@ Sidste uge fandt vi rundt i værktøjskassen. I dag begynder det rigtige skibsby
 - Alle kan bruge **Align**-værktøjet til at placere former præcist i forhold til hinanden
 - Alle har gemt deres design med et navn, de selv kan genkende igen i uge 8
 
-## Materialer
-
-- Egen bærbar (Windows eller Mac) + strøm/oplader
-- Browser + Tinkercad-login (samme klasse som uge 1)
-- Projektor/skærm til fælles gennemgang
-
-!!! note "Inden sessionen (underviser-forberedelse)"
-    - Find evt. et par billeder af klassiske lokomotiver frem (damplokomotiv med skorsten og førerhus er nemmest at genkende) til inspiration på storskærm
-    - Det er helt bevidst, at formen skal være **grov** i dag — hvis nogen falder for fristelsen til at pille ved detaljer, så mind dem om at det kommer i uge 8
-    - Præcise mål er ikke vigtige endnu — piraterne måler og tilpasser efter de rigtige LEGO-skinner i uge 6
-
-## Session-outline (2 timer, inkl. 20 min pause)
-
-| Tid | Aktivitet |
-|---|---|
-| 0:00 – 0:10 | Velkomst, kort genopfriskning af uge 1 (flyt/drej/skalér/gruppér), vis dagens mål: lokomotivets grundform |
-| 0:10 – 0:25 | Fælles gennemgang på storskærm: **Align**-værktøjet — hvordan man centrerer og placerer former præcist i forhold til hinanden |
-| 0:25 – 1:00 | Byg selv: lokomotivets krop og førerhus (se øvelse nedenfor) |
-| 1:00 – 1:20 | **PAUSE** |
-| 1:20 – 1:50 | Fortsæt: skorsten + evt. "næse" forrest, saml alt med Group |
-| 1:50 – 2:00 | Saml op: vis et par skærme frem, snak kort om uge 3 (kulvognen) |
-
 ## Sådan skal det se ud
 
 <svg viewBox="0 0 320 140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Skitse af lokomotivets grove form: en aflang krop, et førerhus ovenpå og en skorsten forrest" style="width:100%;max-width:420px;height:auto;background:#eef6f9;border-radius:8px;padding:12px;box-sizing:border-box;display:block;margin:0 auto;">
