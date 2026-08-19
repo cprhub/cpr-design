@@ -1,6 +1,6 @@
 # UGE 1 · OPSÆTNING & INTRODUKTION TIL TINKERCAD
 
-Alle gode rejser starter med at finde søkortet frem! 🗺️ I dag logger vi ind, ser os omkring i værktøjskassen, og de erfarne pirater kaster sig over den første rigtige designudfordring: at bygge selveste **Kaptajn Hack**.
+Alle gode rejser starter med at finde søkortet frem! I dag logger vi ind, ser os omkring i værktøjskassen, og de erfarne pirater kaster sig over den første rigtige designudfordring: at bygge selveste **Kaptajn Hack**.
 
 ## Mål
 
@@ -29,7 +29,7 @@ Alle gode rejser starter med at finde søkortet frem! 🗺️ I dag logger vi in
 | 0:10 – 0:25 | Udlevér login-kort, alle logger ind på Tinkercad sammen. Underviser hjælper med login-problemer |
 | 0:25 – 0:45 | Fælles gennemgang på storskærm: Tinkercad's grundflade — Workplane, ViewCube, grundformer, flyt/drej/skalér, gruppér, lav hul |
 | 0:45 – 1:00 | Pirater deles i to spor (se øvelse nedenfor) |
-| 1:00 – 1:20 | **PAUSE** 🍪 |
+| 1:00 – 1:20 | **PAUSE** |
 | 1:20 – 1:50 | Fortsat arbejde i eget spor |
 | 1:50 – 2:00 | Saml op: vis et par skærme frem, snak kort om hvad vi skal uge 2 (lokomotivets grundform) |
 

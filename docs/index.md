@@ -1,6 +1,6 @@
 # CODING PIRATES RØDOVRE · DESIGN-HOLD
 
-Alt undervisningsmateriale til Design-holdet, samlet ét sted — organiseret efter sæson. 🏴‍☠️
+Alt undervisningsmateriale til Design-holdet, samlet ét sted — organiseret efter sæson.
 
 Vælg en sæson i menuen ovenfor, eller herunder.
 

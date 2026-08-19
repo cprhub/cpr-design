@@ -20,7 +20,7 @@
 | 10 | Print, lim, mal & pynt (del 1) | ✅ TekX #2 |
 | 11 | Print, lim, mal & pynt (del 2) | ✅ TekX #3 |
 | 12 | Buffer & sidste finish | – |
-| 13 | **Fremvisning & jule-afslutning** 🎉 | – |
+| 13 | **Fremvisning & jule-afslutning** | – |
 
 ## Fast metode gennem hele forløbet
 

@@ -1,6 +1,6 @@
 # UGE 2 · LOKOMOTIVETS GROVE FORM
 
-Sidste uge fandt vi rundt i værktøjskassen. I dag begynder det rigtige skibsbyggeri (eller rettere: togbyggeri) ⚒️ — vi bygger lokomotivets **grove form**, den blokagtige grundskitse hele toget bygges videre på i de næste uger.
+Sidste uge fandt vi rundt i værktøjskassen. I dag begynder det rigtige skibsbyggeri (eller rettere: togbyggeri) — vi bygger lokomotivets **grove form**, den blokagtige grundskitse hele toget bygges videre på i de næste uger.
 
 ## Mål
 
@@ -26,7 +26,7 @@ Sidste uge fandt vi rundt i værktøjskassen. I dag begynder det rigtige skibsby
 | 0:00 – 0:10 | Velkomst, kort genopfriskning af uge 1 (flyt/drej/skalér/gruppér), vis dagens mål: lokomotivets grundform |
 | 0:10 – 0:25 | Fælles gennemgang på storskærm: **Align**-værktøjet — hvordan man centrerer og placerer former præcist i forhold til hinanden |
 | 0:25 – 1:00 | Byg selv: lokomotivets krop og førerhus (se øvelse nedenfor) |
-| 1:00 – 1:20 | **PAUSE** 🍪 |
+| 1:00 – 1:20 | **PAUSE** |
 | 1:20 – 1:50 | Fortsæt: skorsten + evt. "næse" forrest, saml alt med Group |
 | 1:50 – 2:00 | Saml op: vis et par skærme frem, snak kort om uge 3 (kulvognen) |
 

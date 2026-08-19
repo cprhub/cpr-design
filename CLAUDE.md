@@ -10,7 +10,7 @@ Sitet bygges med **MkDocs Material** og udgives via GitHub Pages (se `.github/wo
 ## Målgruppe (gælder for alt indhold)
 - Børn på **10-12 år**.
 - **Altid begynderniveau** — ingen forudsætninger antages, heller ikke fra tidligere uger, da nye pirater kan komme til undervejs. Byg kort genopfriskning ind, hvis en uge bygger på noget tidligere.
-- Sprog: **dansk er kildesprog** (engelsk oversættelse findes via i18n-pluginnet, når den er lavet). Tone: legende, opmuntrende "sørøver"-stil som resten af Coding Pirates — kort, konkret, lidt humor, sparsom brug af emoji (i overskrifter/pitch, ikke i hver sætning). Undgå at virke nedladende for 12-årige.
+- Sprog: **dansk er kildesprog** (engelsk oversættelse findes via i18n-pluginnet, når den er lavet). Tone: legende, opmuntrende "sørøver"-stil som resten af Coding Pirates — kort, konkret, lidt humor. **Ingen emojis** (heller ikke i overskrifter/pitch) — brug ordvalg og "!" til at bære tonen i stedet. Undtagelsen er ✅ som fast statusikon i "✅ Færdig når..."-overskrifter og status-kolonner, det er struktur, ikke tone. Undgå at virke nedladende for 12-årige.
 
 ## Design-holdets indhold
 Holdets efterår 2026-forløb er **ét sammenhængende 3D-design-projekt**, ikke en blanding af discipliner: piraterne designer og 3D-printer deres eget **LEGO-kompatible juletog** i **Tinkercad**, inspireret af det klassiske LEGO-juletog. Toget skal kunne køre på rigtige LEGO-skinner (sporvidde ca. 37,5 mm), så forløbet inkluderer også at måle, designe efter mål, og teste/justere print undervejs. Se den fulde ugeoversigt i `docs/autumn-2026/design-hold/index.md`.
