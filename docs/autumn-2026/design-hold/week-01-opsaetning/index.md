@@ -13,7 +13,7 @@ Alle gode rejser starter med at finde søkortet frem! 🗺️ I dag logger vi in
 
 - Egen bærbar (Windows eller Mac) + strøm/oplader
 - Browser (Chrome, Edge eller Safari virker alle fint)
-- Tinkercad Class-login-kort til hver pirat (kaldenavn + klassekode — se `/mnt/user-data/outputs/tinkercad-login-kort.pdf` eller det printede sæt)
+- Tinkercad Class-login-kort til hver pirat (kaldenavn + klassekode — printes fra Tinkercad Class-oversigten under **Students → Print login cards**, se forberedelse nedenfor)
 - Projektor/skærm til fælles gennemgang
 
 !!! note "Inden sessionen (underviser-forberedelse)"
