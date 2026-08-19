@@ -21,6 +21,13 @@ Sidste uge fandt vi rundt i værktøjskassen. I dag begynder det rigtige skibsby
 
 Sådan hænger de tre former sammen, set fra siden — det er denne grove form, du bygger i dag. Detaljer, hjul og finish kommer i senere uger.
 
+!!! example "Screenshot mangler her"
+    **Filnavn:** `screenshot.png` (lægges i denne uges egen mappe, ved siden af `index.md`)
+
+    **Skal vise:** Det færdige, grupperede lokomotiv i Tinkercad-editoren, set skråt fra siden/forfra, så krop, førerhus og skorsten alle er tydeligt synlige. Gerne med Tinkercads gitter/arbejdsflade med i billedet, så størrelsesforholdet fremgår.
+
+    Når filen er lagt ind, erstattes denne boks med: `![Lokomotivets grove form i Tinkercad](screenshot.png)`
+
 ## Trin-for-trin øvelse
 
 1. Opret et nyt design og navngiv det efter vores faste struktur: `CPR-[dit navn]-Lokomotiv` (se uge 1 hvis du er i tvivl om hvordan) — vi skal kunne finde det igen i uge 8, og TekX skal kunne printe det senere

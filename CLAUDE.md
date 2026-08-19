@@ -40,7 +40,7 @@ Alle Tinkercad-designs skal navngives **`CPR-[elevnavn]-[figurnavn]`** (fx `CPR-
 Hver uges materiale skal indeholde:
 1. Overskrift + fængende pitch (1-2 sætninger)
 2. Mål
-3. En **illustration** af det, ugen bygger — en simpel inline SVG (ingen eksterne billedlicenser at holde styr på) der viser målet/formen, ikke kun tekst
+3. En **illustration** af det, ugen bygger. Standarden er en rigtig Tinkercad-screenshot: da Claude Code ikke har adgang til en fungerende browser der kan logge ind og bygge i Tinkercad, indsæt i stedet en tydelig "Screenshot mangler her"-boks (`!!! example`) med **Filnavn** (simpelt, i ugens egen mappe, fx `screenshot.png`) og **Skal vise** (præcis beskrivelse af vinkel/indhold), plus den færdige `![...]()`-linje der skal indsættes når filen er lagt ind. Brug kun en selvlavet inline SVG som illustration, når det ikke er et screenshot af en Tinkercad-øvelse (fx en stil-reference til et logo/maskot)
 4. Trin-for-trin øvelse, konkret nok til at en frivillig kan undervise direkte efter den
 5. **Ekstra udfordringer** — 2-4 valgfrie, sværere opgaver til pirater der bliver hurtigt færdige med kerneøvelsen
 6. "✅ Færdig når..." — synligt succeskriterie, inkl. en linje om ekstraudfordringer hvis der var tid

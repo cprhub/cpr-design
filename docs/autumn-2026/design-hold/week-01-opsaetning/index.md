@@ -52,6 +52,13 @@ Udfordringen: byg et lille, detaljeret hoved af vores egen maskot, **Kaptajn Hac
 
 Det firkantede, pixel-agtige piratansigt herover er blot en skitse af stilen — brug den som pejlemærke for farver (Coding Pirates' blå og gul) og form, men find selv det officielle referencebillede frem på skærmen fra Coding Pirates Designguide (link i Reference nedenfor).
 
+!!! example "Screenshot mangler her"
+    **Filnavn:** `screenshot-spor-b.png` (lægges i denne uges egen mappe, ved siden af `index.md`)
+
+    **Skal vise:** Et færdigt Kaptajn Hack-hoved i Tinkercad-editoren, tæt på/zoomet ind, så ansigtstrækkene (øjne, skæg, pirathat) er tydelige på trods af den lille skala.
+
+    Når filen er lagt ind, erstattes denne boks med: `![Færdigt Kaptajn Hack-hoved i Tinkercad](screenshot-spor-b.png)`
+
 1. Find det officielle referencebillede af Kaptajn Hack frem på skærmen
 2. Start med grundformen: en **kasse** i ca. 10×10×10 mm som selve hovedet
 3. Byg ansigtstræk op af små former oven på hovedet: øjne, skæg, pirathat — brug **kasser og cylindre**, skaleret helt ned i millimeter-størrelse
