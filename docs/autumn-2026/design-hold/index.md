@@ -9,7 +9,7 @@
 | Uge | Fokus | TekX-besøg? |
 |---|---|---|
 | 1 | [Opsætning & introduktion til Tinkercad](week-01-opsaetning/index.md) | – |
-| 2 | Lokomotiv – grov form | – |
+| 2 | [Lokomotiv – grov form](week-02-lokomotiv-grov-form/index.md) | – |
 | 3 | Kulvogn – grov form | – |
 | 4 | Ladvogn – grov form | – |
 | 5 | Passagervogn – grov form *(hele toget står nu i grove træk)* | – |
