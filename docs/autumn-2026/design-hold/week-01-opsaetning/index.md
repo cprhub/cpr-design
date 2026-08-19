@@ -9,6 +9,23 @@ Alle gode rejser starter med at finde søkortet frem! I dag logger vi ind, ser o
 - Nye pirater har gennemført Tinkercad's egne introduktions-tutorials
 - Erfarne pirater har påbegyndt (eller færdiggjort) et lille, detaljeret Kaptajn Hack-hoved
 
+## Filnavne — vores faste struktur
+
+**Alle Tinkercad-designs skal navngives efter samme struktur, hele forløbet igennem:**
+
+```
+CPR-[elevnavn]-[navn på figuren]
+```
+
+Fx `CPR-Anna-Lokomotiv` eller `CPR-Anna-KaptajnHack`. Det er ikke bare for at holde orden — det er sådan TekX kan finde og printe de rigtige filer for os, så hvis navnet mangler eller er forkert, kan tingene ikke printes. **Denne øvelse gentages hver uge**, så det bliver en vane.
+
+**Sådan omdøber du dit design:**
+
+1. Åbn dit design i Tinkercad-editoren
+2. Klik på **navnefeltet øverst til venstre** (der hvor designets nuværende navn står)
+3. Slet det gamle navn, og skriv det nye efter strukturen: `CPR-[dit navn]-[figurens navn]`
+4. Klik udenfor feltet — navnet gemmes automatisk
+
 ## Trin-for-trin øvelse
 
 Holdet deles i to spor efter erfaring:
@@ -40,7 +57,7 @@ Det firkantede, pixel-agtige piratansigt herover er blot en skitse af stilen —
 3. Byg ansigtstræk op af små former oven på hovedet: øjne, skæg, pirathat — brug **kasser og cylindre**, skaleret helt ned i millimeter-størrelse
 4. Brug **Group** til at samle alle de små detaljer til hovedet, så det bliver ét samlet objekt
 5. Udfordring undervejs: prøv at holde styr på, hvor lidt der egentlig skal til, før øjnene "ligner" — det er en god øvelse i at arbejde i meget lille skala
-6. Gem designet — vi vender ikke tilbage til det med det samme, men det er en sjov skala-øvelse at have liggende, og måske ender den som en lille pynte-detalje på selve juletoget senere!
+6. **Omdøb designet** efter vores faste struktur, fx `CPR-[dit navn]-KaptajnHack` (se ovenfor), og gem — vi vender ikke tilbage til det med det samme, men det er en sjov skala-øvelse at have liggende, og måske ender den som en lille pynte-detalje på selve juletoget senere!
 
 ## Ekstra udfordringer
 

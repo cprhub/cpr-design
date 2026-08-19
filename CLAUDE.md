@@ -21,6 +21,9 @@ Holdets efterår 2026-forløb er **ét sammenhængende 3D-design-projekt**, ikke
 
 Fremtidige sæsoner/hold under dette repo kan sagtens dække andre design-discipliner (grafisk design, spildesign, web/UI) — men det er *ikke* efterår 2026-forløbet, og skal ikke blandes ind i den eksisterende ugeoversigt uden eksplicit aftale.
 
+## Filnavne-konvention (ufravigeligt)
+Alle Tinkercad-designs skal navngives **`CPR-[elevnavn]-[figurnavn]`** (fx `CPR-Anna-Lokomotiv`). Det er ikke kun ordenssans — det er sådan TekX kan finde og printe de rigtige filer. Konventionen er undervist i sin fulde form i uge 1 (`docs/autumn-2026/design-hold/week-01-opsaetning/index.md`, afsnittet "Filnavne — vores faste struktur", inkl. hvordan man omdøber et design i Tinkercad). **Hver efterfølgende uges Trin-for-trin øvelse skal minde om konventionen** i det trin hvor et nyt design oprettes/navngives — kort reference er nok (fx "navngiv efter vores faste struktur: `CPR-[dit navn]-X`"), det behøver ikke gentage hele forklaringen.
+
 ## Software-krav (ufravigeligt)
 - Undervisning foregår på **Windows og Mac** — ingen løsninger der kræver iPad/Chromebook.
 - **Kun gratis eller open source programmer.** Aldrig noget der kræver betalt licens/abonnement/"pro"-version for at gennemføre øvelsen.

@@ -23,7 +23,7 @@ Sådan hænger de tre former sammen, set fra siden — det er denne grove form, 
 
 ## Trin-for-trin øvelse
 
-1. Opret et nyt design og navngiv det tydeligt, fx **"Lokomotiv – [dit navn]"** — vi skal kunne finde det igen i uge 8
+1. Opret et nyt design og navngiv det efter vores faste struktur: `CPR-[dit navn]-Lokomotiv` (se uge 1 hvis du er i tvivl om hvordan) — vi skal kunne finde det igen i uge 8, og TekX skal kunne printe det senere
 2. Byg lokomotivets **krop**: start med en aflang kasse (fx ca. 40×20×20 mm) liggende på arbejdsfladen
 3. Tilføj en mindre kasse ovenpå kroppen som **førerhus**
 4. Marker begge former og brug **Align** til at centrere førerhuset præcist på tværs af kroppen — se de blå prikker der dukker op, og klik den midterste for at centrere
