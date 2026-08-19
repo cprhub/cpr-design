@@ -40,6 +40,8 @@ Holdet deles i to spor efter erfaring:
 
 ### Spor B — Erfarne pirater: Design Kaptajn Hack
 
+Vidste du, at rigtige influencere på Instagram og TikTok får lavet deres helt egen 3D-printede mini-figur af sig selv, som de bruger til branding og indhold? I dag prøver vi den samme idé — bare med vores egen makker som model.
+
 Udfordringen: byg et lille, detaljeret hoved af vores egen maskot, **Kaptajn Hack**, i ca. **1×1×1 cm**.
 
 <svg viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Pixel-agtig skitse af Kaptajn Hacks ansigt: blåt hoved, gul pirathat, hvide øjne og skæg" style="width:160px;height:160px;image-rendering:pixelated;background:#eef6f9;border-radius:8px;padding:8px;box-sizing:border-box;display:block;margin:0 auto;">
@@ -99,3 +101,5 @@ Blevet færdig før tiden? Prøv en eller flere af disse:
 - [Let's Learn Tinkercad!](https://www.tinkercad.com/learn/overview/O8XV0X1IRXTXGIH) — officiel begynder-tutorial-serie
 - [Learn the Moves](https://www.tinkercad.com/learn/overview/OPC41AJJKIKDWDV) — officiel tutorial-serie om at flytte/dreje/skalere
 - [Coding Pirates Designguide](https://codingpirates.dk/designguide/) — bl.a. reference til Kaptajn Hack og Miss 1337
+- [Weekend Project: Figurines](https://www.tinkercad.com/blog/weekend-projects-figurines) — officiel Tinkercad-inspiration til at designe små figurer
+- [Create Your Own Avatar](https://www.tinkercad.com/lessonplans/create-your-own-avatar/share) — officiel Tinkercad-lektionsplan om at designe sin egen karakter i 3D
