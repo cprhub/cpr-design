@@ -9,30 +9,6 @@ Alle gode rejser starter med at finde søkortet frem! I dag logger vi ind, ser o
 - Nye pirater har gennemført Tinkercad's egne introduktions-tutorials
 - Erfarne pirater har påbegyndt (eller færdiggjort) et lille, detaljeret Kaptajn Hack-hoved
 
-## Materialer
-
-- Egen bærbar (Windows eller Mac) + strøm/oplader
-- Browser (Chrome, Edge eller Safari virker alle fint)
-- Tinkercad Class-login-kort til hver pirat (kaldenavn + klassekode — printes fra Tinkercad Class-oversigten under **Students → Print login cards**, se forberedelse nedenfor)
-- Projektor/skærm til fælles gennemgang
-
-!!! note "Inden sessionen (underviser-forberedelse)"
-    - Tjek at Tinkercad Class-koden stadig er aktiv (nogle opsætninger udløber koder efter 7 dage — opret evt. klassen tæt på selve ugen)
-    - Print og klip login-kortene ud på forhånd
-    - Test selv login-flowet på både en Windows- og en Mac-maskine, hvis muligt
-
-## Session-outline (2 timer, inkl. 20 min pause)
-
-| Tid | Aktivitet |
-|---|---|
-| 0:00 – 0:10 | Velkomst, præsentation af efterårets projekt: **vi bygger et juletog, der kan køre på rigtige LEGO-skinner!** Vis evt. et billede af et rigtigt LEGO-juletog som inspiration |
-| 0:10 – 0:25 | Udlevér login-kort, alle logger ind på Tinkercad sammen. Underviser hjælper med login-problemer |
-| 0:25 – 0:45 | Fælles gennemgang på storskærm: Tinkercad's grundflade — Workplane, ViewCube, grundformer, flyt/drej/skalér, gruppér, lav hul |
-| 0:45 – 1:00 | Pirater deles i to spor (se øvelse nedenfor) |
-| 1:00 – 1:20 | **PAUSE** |
-| 1:20 – 1:50 | Fortsat arbejde i eget spor |
-| 1:50 – 2:00 | Saml op: vis et par skærme frem, snak kort om hvad vi skal uge 2 (lokomotivets grundform) |
-
 ## Trin-for-trin øvelse
 
 Holdet deles i to spor efter erfaring:

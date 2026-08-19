@@ -37,14 +37,14 @@ Fremtidige sæsoner/hold under dette repo kan sagtens dække andre design-discip
 Hver uges materiale skal indeholde:
 1. Overskrift + fængende pitch (1-2 sætninger)
 2. Mål
-3. Materialer (software/udstyr — kun gratis/open source, jf. ovenfor)
-4. Session-outline, tidsopdelt efter de faktiske 2 timer
-5. En **illustration** af det, ugen bygger — en simpel inline SVG (ingen eksterne billedlicenser at holde styr på) der viser målet/formen, ikke kun tekst
-6. Trin-for-trin øvelse, konkret nok til at en frivillig kan undervise direkte efter den
-7. **Ekstra udfordringer** — 2-4 valgfrie, sværere opgaver til pirater der bliver hurtigt færdige med kerneøvelsen. Kerneøvelsen alene skal ikke nødvendigvis fylde hele byggetiden i session-outlinen — ekstraudfordringerne er der for at tage resten
-8. "✅ Færdig når..." — synligt succeskriterie, inkl. en linje om ekstraudfordringer hvis der var tid
-9. Noter (tomt felt til underviserens egne erfaringer)
-10. Reference — links til officielle, verificerede kilder (Tinkercad Learn, kodeklubben.dk, Coding Pirates designguide m.fl.)
+3. En **illustration** af det, ugen bygger — en simpel inline SVG (ingen eksterne billedlicenser at holde styr på) der viser målet/formen, ikke kun tekst
+4. Trin-for-trin øvelse, konkret nok til at en frivillig kan undervise direkte efter den
+5. **Ekstra udfordringer** — 2-4 valgfrie, sværere opgaver til pirater der bliver hurtigt færdige med kerneøvelsen
+6. "✅ Færdig når..." — synligt succeskriterie, inkl. en linje om ekstraudfordringer hvis der var tid
+7. Noter (tomt felt til underviserens egne erfaringer)
+8. Reference — links til officielle, verificerede kilder (Tinkercad Learn, kodeklubben.dk, Coding Pirates designguide m.fl.)
+
+**Ikke** længere en fast del af skabelonen: Materialer-liste og en tidsopdelt Session-outline-tabel. Underviseren planlægger selv logistik/timing ud fra Trin-for-trin øvelsen og Ekstra udfordringer — siderne skal ikke gentage praktisk mødeforberedelse.
 
 Se `docs/autumn-2026/design-hold/week-01-opsaetning/index.md` som skabelon for struktur og niveau.
 
