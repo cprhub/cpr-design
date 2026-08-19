@@ -1,7 +1,7 @@
 site_name: Coding Pirates Rødovre · Design-hold
 site_description: Undervisningsmateriale til Coding Pirates Rødovres Design-hold
-site_url: https://REPLACE-WITH-YOUR-GITHUB-USERNAME.github.io/cpr-design/
-repo_url: https://github.com/REPLACE-WITH-YOUR-GITHUB-USERNAME/cpr-design
+site_url: https://cprhub.github.io/cpr-design/
+repo_url: https://github.com/cprhub/cpr-design
 repo_name: cpr-design
 docs_dir: docs
 
