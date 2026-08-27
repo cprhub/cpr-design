@@ -1,6 +1,6 @@
-# DESIGN-HOLD
+# JULETOG
 
-13 sessioners forløb for pirater på 10-12 år, ingen forudsætninger krævet. Hen over efteråret designer og 3D-printer vi vores eget **juletog** i Tinkercad — inspireret af det klassiske LEGO-juletog, men med vores eget udtryk. Toget skal kunne køre på rigtige LEGO-skinner, så undervejs lærer vi også at måle, designe efter mål, og teste og justere vores print.
+Design-holdets 13 sessioners forløb for pirater på 10-12 år, ingen forudsætninger krævet. Hen over efteråret designer og 3D-printer vi vores eget **juletog** i Tinkercad — inspireret af det klassiske LEGO-juletog, men med vores eget udtryk. Toget skal kunne køre på rigtige LEGO-skinner, så undervejs lærer vi også at måle, designe efter mål, og teste og justere vores print.
 
 *Session: 2 timer inkl. 20 min pause · Gruppestørrelse: 6-10 pirater · Udstyr: egne bærbare (Windows/Mac) + Bambu Lab A1 Mini · Kun gratis/open source software (Tinkercad)*
 

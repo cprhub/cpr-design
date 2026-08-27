@@ -1,17 +1,17 @@
-# CODING PIRATES RØDOVRE · DESIGN-HOLD
+# CODING PIRATES RØDOVRE
 
-Alt undervisningsmateriale til Design-holdet, samlet ét sted — organiseret efter sæson.
+Alt undervisningsmateriale til Coding Pirates Rødovres hold, samlet ét sted.
 
-Vælg en sæson i menuen ovenfor, eller herunder.
+Vælg et hold i menuen ovenfor, eller herunder.
 
-## Sæsoner
+## Hold
 
-| Sæson | Status |
+| Hold | Status |
 |---|---|
-| [**Efterår 2026**](autumn-2026/index.md) | ✅ Tilgængelig |
+| [**Juletog**](juletog/index.md) | ✅ Tilgængelig |
+| [**Pinball**](pinball/index.md) | 🚧 Under opbygning |
 
 ## Sådan er materialet organiseret
 
-- Hver **sæson** har sin egen mappe (fx `autumn-2026/`).
-- Under en sæson har hvert **hold** sin mappe, og hver **session** har sin egen side med mål, en illustration og en trin-for-trin øvelse.
+- Hvert **hold** har sin egen mappe (fx `juletog/`, `pinball/`), og hver **session** har sin egen side med mål, en illustration og en trin-for-trin øvelse.
 - Dansk er kilde-sproget. Brug 🌐-ikonet i toppen for at skifte sprog, når engelske oversættelser findes.

@@ -1,5 +1,5 @@
-site_name: Coding Pirates Rødovre · Design-hold
-site_description: Undervisningsmateriale til Coding Pirates Rødovres Design-hold
+site_name: Coding Pirates Rødovre
+site_description: Undervisningsmateriale til Coding Pirates Rødovres hold
 site_url: https://cprhub.github.io/cpr-design/
 repo_url: https://github.com/cprhub/cpr-design
 repo_name: cpr-design
@@ -45,12 +45,25 @@ plugins:
 
 nav:
   - Forside: index.md
-  - Efterår 2026:
-      - Oversigt: autumn-2026/index.md
-      - Design-hold:
-          - Oversigt: autumn-2026/design-hold/index.md
-          - Session 1 · Opsætning & Tinkercad: autumn-2026/design-hold/session-01-opsaetning/index.md
-          - Session 2 · Lokomotivets grove form: autumn-2026/design-hold/session-02-lokomotiv-grov-form/index.md
+  - Juletog:
+      - Oversigt: juletog/index.md
+      - Session 1 · Opsætning & Tinkercad: juletog/session-01-opsaetning/index.md
+      - Session 2 · Lokomotivets grove form: juletog/session-02-lokomotiv-grov-form/index.md
+  - Pinball:
+      - Oversigt: pinball/index.md
+      - Session 1: pinball/session-01/index.md
+      - Session 2: pinball/session-02/index.md
+      - Session 3: pinball/session-03/index.md
+      - Session 4: pinball/session-04/index.md
+      - Session 5: pinball/session-05/index.md
+      - Session 6: pinball/session-06/index.md
+      - Session 7: pinball/session-07/index.md
+      - Session 8: pinball/session-08/index.md
+      - Session 9: pinball/session-09/index.md
+      - Session 10: pinball/session-10/index.md
+      - Session 11: pinball/session-11/index.md
+      - Session 12: pinball/session-12/index.md
+      - Session 13: pinball/session-13/index.md
 
 markdown_extensions:
   - admonition
