@@ -30,8 +30,8 @@ docs/
   autumn-2026/
     index.md                        # sæson-oversigt
     design-hold/
-      index.md                      # 13-ugers oversigt
-      week-01-pirat-logo/index.md   # ugeside (skabelon, se kommentar i filen)
+      index.md                      # 13-sessioners oversigt
+      session-01-opsaetning/index.md # sessionsside (skabelon, se kommentar i filen)
 ```
 
 Design følger [Coding Pirates Danmarks designguide](https://codingpirates.dk/designguide/)

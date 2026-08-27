@@ -1,12 +1,12 @@
-# UGE 2 · LOKOMOTIVETS GROVE FORM
+# SESSION 2 · LOKOMOTIVETS GROVE FORM
 
-Sidste uge fandt vi rundt i værktøjskassen. I dag begynder det rigtige skibsbyggeri (eller rettere: togbyggeri) — vi bygger lokomotivets **grove form**, den blokagtige grundskitse hele toget bygges videre på i de næste uger.
+Sidste session fandt vi rundt i værktøjskassen. I dag begynder det rigtige skibsbyggeri (eller rettere: togbyggeri) — vi bygger lokomotivets **grove form**, den blokagtige grundskitse hele toget bygges videre på i de næste sessioner.
 
 ## Mål
 
 - Alle pirater har en lokomotiv-grundform i Tinkercad, sat sammen af flere former
 - Alle kan bruge **Align**-værktøjet til at placere former præcist i forhold til hinanden
-- Alle har gemt deres design med et navn, de selv kan genkende igen i uge 8
+- Alle har gemt deres design med et navn, de selv kan genkende igen i session 8
 
 ## Sådan skal det se ud
 
@@ -19,10 +19,10 @@ Sidste uge fandt vi rundt i værktøjskassen. I dag begynder det rigtige skibsby
   <text x="79" y="14" font-family="sans-serif" font-size="12" fill="#333" text-anchor="middle">Skorsten</text>
 </svg>
 
-Sådan hænger de tre former sammen, set fra siden — det er denne grove form, du bygger i dag. Detaljer, hjul og finish kommer i senere uger.
+Sådan hænger de tre former sammen, set fra siden — det er denne grove form, du bygger i dag. Detaljer, hjul og finish kommer i senere sessioner.
 
 !!! example "Screenshot mangler her"
-    **Filnavn:** `screenshot.png` (lægges i denne uges egen mappe, ved siden af `index.md`)
+    **Filnavn:** `screenshot.png` (lægges i denne sessions egen mappe, ved siden af `index.md`)
 
     **Skal vise:** Det færdige, grupperede lokomotiv i Tinkercad-editoren, set skråt fra siden/forfra, så krop, førerhus og skorsten alle er tydeligt synlige. Gerne med Tinkercads gitter/arbejdsflade med i billedet, så størrelsesforholdet fremgår.
 
@@ -30,7 +30,7 @@ Sådan hænger de tre former sammen, set fra siden — det er denne grove form, 
 
 ## Trin-for-trin øvelse
 
-1. Opret et nyt design og navngiv det efter vores faste struktur: `CPR-[dit navn]-Lokomotiv` (se uge 1 hvis du er i tvivl om hvordan) — vi skal kunne finde det igen i uge 8, og TekX skal kunne printe det senere
+1. Opret et nyt design og navngiv det efter vores faste struktur: `CPR-[dit navn]-Lokomotiv` (se session 1 hvis du er i tvivl om hvordan) — vi skal kunne finde det igen i session 8, og TekX skal kunne printe det senere
 2. Byg lokomotivets **krop**: start med en aflang kasse (fx ca. 40×20×20 mm) liggende på arbejdsfladen
 3. Tilføj en mindre kasse ovenpå kroppen som **førerhus**
 4. Marker begge former og brug **Align** til at centrere førerhuset præcist på tværs af kroppen — se de blå prikker der dukker op, og klik den midterste for at centrere

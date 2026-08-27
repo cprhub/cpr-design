@@ -13,5 +13,5 @@ Vælg en sæson i menuen ovenfor, eller herunder.
 ## Sådan er materialet organiseret
 
 - Hver **sæson** har sin egen mappe (fx `autumn-2026/`).
-- Under en sæson har hvert **hold** sin mappe, og hver **uge** har sin egen side med mål, materialer, session-outline og en trin-for-trin øvelse.
+- Under en sæson har hvert **hold** sin mappe, og hver **session** har sin egen side med mål, en illustration og en trin-for-trin øvelse.
 - Dansk er kilde-sproget. Brug 🌐-ikonet i toppen for at skifte sprog, når engelske oversættelser findes.

@@ -1,4 +1,4 @@
-# UGE 1 · OPSÆTNING & INTRODUKTION TIL TINKERCAD
+# SESSION 1 · OPSÆTNING & INTRODUKTION TIL TINKERCAD
 
 Alle gode rejser starter med at finde søkortet frem! I dag logger vi ind, ser os omkring i værktøjskassen, og de erfarne pirater kaster sig over den første rigtige designudfordring: at bygge selveste **Kaptajn Hack**.
 
@@ -17,7 +17,7 @@ Alle gode rejser starter med at finde søkortet frem! I dag logger vi ind, ser o
 CPR-[elevnavn]-[navn på figuren]
 ```
 
-Fx `CPR-Anna-Lokomotiv` eller `CPR-Anna-KaptajnHack`. Det er ikke bare for at holde orden — det er sådan TekX kan finde og printe de rigtige filer for os, så hvis navnet mangler eller er forkert, kan tingene ikke printes. **Denne øvelse gentages hver uge**, så det bliver en vane.
+Fx `CPR-Anna-Lokomotiv` eller `CPR-Anna-KaptajnHack`. Det er ikke bare for at holde orden — det er sådan TekX kan finde og printe de rigtige filer for os, så hvis navnet mangler eller er forkert, kan tingene ikke printes. **Denne øvelse gentages hver session**, så det bliver en vane.
 
 **Sådan omdøber du dit design:**
 
@@ -55,7 +55,7 @@ Udfordringen: byg et lille, detaljeret hoved af vores egen maskot, **Kaptajn Hac
 Det firkantede, pixel-agtige piratansigt herover er blot en skitse af stilen — brug den som pejlemærke for farver (Coding Pirates' blå og gul) og form, men find selv det officielle referencebillede frem på skærmen fra Coding Pirates Designguide (link i Reference nedenfor).
 
 !!! example "Screenshot mangler her"
-    **Filnavn:** `screenshot-spor-b.png` (lægges i denne uges egen mappe, ved siden af `index.md`)
+    **Filnavn:** `screenshot-spor-b.png` (lægges i denne sessions egen mappe, ved siden af `index.md`)
 
     **Skal vise:** Et færdigt Kaptajn Hack-hoved i Tinkercad-editoren, tæt på/zoomet ind, så ansigtstrækkene (øjne, skæg, pirathat) er tydelige på trods af den lille skala.
 

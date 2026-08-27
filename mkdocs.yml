@@ -49,8 +49,8 @@ nav:
       - Oversigt: autumn-2026/index.md
       - Design-hold:
           - Oversigt: autumn-2026/design-hold/index.md
-          - Uge 1 · Opsætning & Tinkercad: autumn-2026/design-hold/week-01-opsaetning/index.md
-          - Uge 2 · Lokomotivets grove form: autumn-2026/design-hold/week-02-lokomotiv-grov-form/index.md
+          - Session 1 · Opsætning & Tinkercad: autumn-2026/design-hold/session-01-opsaetning/index.md
+          - Session 2 · Lokomotivets grove form: autumn-2026/design-hold/session-02-lokomotiv-grov-form/index.md
 
 markdown_extensions:
   - admonition
