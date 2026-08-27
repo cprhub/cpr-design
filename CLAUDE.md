@@ -58,17 +58,18 @@ Se `docs/juletog/session-01-opsaetning/index.md` som skabelon for struktur og ni
 ---
 
 ## Pinball (Pinball-holdet)
-Pinball-holdet skal bygge en pinball-maskine over **max 13 sessioner** (efterår 2026, ikke nødvendigvis alle 13 bruges). Se `docs/pinball/index.md`.
+Pinball-holdet skal bygge en **fysisk pinball-maskine** over **max 13 sessioner** (efterår 2026, ikke nødvendigvis alle 13 bruges). Se `docs/pinball/index.md`. Hver session er **2 timer inkl. 20 min pause** (bekræftet). Der er **ikke** nødvendigvis 13 sessioner — 13 er loftet, det faktiske antal fastlægges ud fra hvor mange sessioner byggeriet kræver. Hvis det endelige antal bliver mindre end 13, ryd de ubrugte `docs/pinball/session-NN/`-mapper op i stedet for at lade dem stå som tomme skabeloner.
 
-**Status:** Kun fil-/mappestruktur er sat op — **intet undervisningsindhold er skrevet endnu**. Følgende mangler at blive besluttet, før indholdet skrives:
-- **Målgruppe** (alder, forudsætninger — antag samme som Juletog, 10-12 år, medmindre andet aftales)
-- **Hvad slags pinball-maskine**: fysisk (træ/karton/laser-cut + mekaniske dele) og/eller elektronik (fx C64/mikrocontroller-styret), regler for "point", flippers osv.
-- **Software/værktøjer** (fx Tinkercad til dele, evt. mikrocontroller-programmering) — husk kun gratis/open source
-- **Udstyr** (3D-printer? værktøj? elektronik-kit?)
-- **Gruppestørrelse**
-- **Antal sessioner (op til 13) og progression**: hvad bygges hvornår, hvornår er der ev. TekX-besøg eller lignende milepæle, sidste session er typisk showcase
+**Målgruppe/gruppestørrelse:** Samme som Juletog — 10-12 år, 6-10 pirater (plus Microbit-holdets børn på elektronik-sessionerne, se nedenfor).
 
-Hver session er **2 timer inkl. 20 min pause** (bekræftet). Der er **ikke** nødvendigvis 13 sessioner — 13 er loftet, det faktiske antal fastlægges ud fra hvor mange sessioner byggeriet af pinball-maskinen kræver. Hvis det endelige antal bliver mindre end 13, ryd de ubrugte `docs/pinball/session-NN/`-mapper op i stedet for at lade dem stå som tomme skabeloner.
+**Byggemetode (bekræftet):**
+- **3D-print** — samme udstyrsmønster som Juletog: egne bærbare + **Bambu Lab A1 Mini** (holdets flerfarvede printer, løbende brug, maks. 1 time pr. print) + **TekX-printere** (eksterne, store funktionelle dele).
+- **Laser cut** — Coding Pirates har sin egen laser cutter, men det er en **Class 4-laser**, som børn ikke må betjene. Laser cutning af flade paneldele foregår derfor af **læreren mellem sessionerne**: børnene designer/måler op i en session, læreren skærer, og det færdige resultat er klar til næste session. Dette skal fremgå tydeligt i enhver session hvor laser cut indgår, så underviseren husker at forberede det inden næste gang.
+- **Elektronik: micro:bit**, i **samarbejde med Microbit-holdet** — et andet Coding Pirates Rødovre-hold med sin egen holdleder (samme som står bag søsterprojektet `cpr-microbit`, https://itsgauravsaxena.github.io/cpr-microbit/). Design-holdet bygger selve maskinen (mekanik/kabinet), Microbit-holdet designer elektronikken (sensorer, point, lys/lyd) og kommer ind på de sessioner der er markeret til det. **Denne fordeling og de konkrete elektronik-sessioners indhold er IKKE bekræftet med Microbit-holdets leder endnu** — behandl dem som en tydeligt markeret antagelse i indholdet, indtil det er koordineret.
+
+**Foreløbig sessionsoversigt** (antagelse, se `docs/pinball/index.md` for den fulde tabel med `!!! note`-markering): session 1 er introduktion til Tinkercad (samme som Juletogs session 1, øvede laver Kaptajn Hack med QR-kode i nakken, se dens egen status nedenfor), session 2-6 er fysisk design/bygning (kabinet, flippers, bumpers, laser cut, samling), session 7-11 er micro:bit-elektronik (i samarbejde med Microbit-holdet), session 12 er finish, session 13 er showcase.
+
+**Status:** Session 1 er skrevet. Session 2-13 mangler stadig (kun titler i sessionsoversigt-tabellen i `docs/pinball/index.md`).
 
 ## Arbejdsgang for Claude Code
 - Slå altid officielle, opdaterede kilder op, når du foreslår værktøjer, tutorials eller links — opfind ikke indhold fra hukommelsen.
