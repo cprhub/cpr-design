@@ -69,7 +69,7 @@ Pinball-holdet skal bygge en **fysisk pinball-maskine** over **max 13 sessioner*
 
 **Foreløbig sessionsoversigt** (antagelse, se `docs/pinball/index.md` for den fulde tabel med `!!! note`-markering): session 1 er introduktion til Tinkercad (samme som Juletogs session 1, øvede laver Kaptajn Hack med QR-kode i nakken, se dens egen status nedenfor), session 2-6 er fysisk design/bygning (kabinet, flippers, bumpers, laser cut, samling), session 7-11 er micro:bit-elektronik (i samarbejde med Microbit-holdet), session 12 er finish, session 13 er showcase.
 
-**Status:** Session 1 er skrevet. Session 2-13 mangler stadig (kun titler i sessionsoversigt-tabellen i `docs/pinball/index.md`).
+**Status:** Session 1-2 er skrevet. Session 3-13 mangler stadig (kun titler i sessionsoversigt-tabellen i `docs/pinball/index.md`).
 
 ## Arbejdsgang for Claude Code
 - Slå altid officielle, opdaterede kilder op, når du foreslår værktøjer, tutorials eller links — opfind ikke indhold fra hukommelsen.
