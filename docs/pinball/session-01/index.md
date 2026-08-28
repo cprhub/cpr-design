@@ -94,6 +94,9 @@ Blevet færdig før tiden? Prøv en eller flere af disse:
 - **Erfarne:** din Kaptajn Hack-figur står stabilt, og QR-koden sidder synligt og læsbart i nakken
 - **Hvis der var tid:** du har prøvet mindst én ekstra udfordring
 
+!!! tip "Næste gang begynder selve pinball-maskinen"
+    I session 2 får du udleveret **grundbanen** — vores fælles pinball-bane — og vi går sammen igennem de store udfordringer, vi skal løse for at bygge en rigtig, spilbar maskine. Værktøjerne fra i dag (flytte, dreje, skalere, gruppere) bruger vi hele vejen igennem.
+
 ## Noter
 
 *(Tomt felt til underviserens egne erfaringer efter sessionen)*

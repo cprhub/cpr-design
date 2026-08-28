@@ -1,61 +1,53 @@
-# SESSION 2 · DESIGN AF KABINET/BANE — GROV FORM
+# SESSION 2 · DESIGNFASEN — GRUNDBANEN OG DE STORE UDFORDRINGER
 
-Sidste session fandt vi rundt i værktøjskassen. I dag begynder det rigtige maskinbyggeri — vi designer pinball-banens **grove form**: bunden, kanterne og den hævede bagvæg, som resten af maskinen bygges videre på i de næste sessioner.
+Sidste session fandt vi rundt i værktøjskassen. I dag får alle udleveret **grundbanen** — vores fælles udgangspunkt for hele pinball-maskinen — og vi går sammen igennem de store udfordringer, vi skal løse i løbet af de næste mange sessioner for at bygge en rigtig, spilbar pinball-maskine.
 
 ## Mål
 
-- Alle pirater har en grundform af pinball-banen i Tinkercad, sat sammen af flere former
-- Alle kan bruge **Align**-værktøjet til at placere former præcist i forhold til hinanden
-- Alle har gemt deres design med et navn, de selv kan genkende igen i session 5, når vi måler op til laser cut
-
-## Sådan skal det se ud
-
-<svg viewBox="0 0 320 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Skitse af pinball-banens grove form set fra siden: en flad, skrå spilleflade med kanter langs siderne og en hævet bagvæg" style="width:100%;max-width:420px;height:auto;background:#eef6f9;border-radius:8px;padding:12px;box-sizing:border-box;display:block;margin:0 auto;">
-  <polygon points="30,120 260,120 260,50 30,90" fill="#25A2CE" />
-  <rect x="230" y="30" width="18" height="60" fill="#EFB422" />
-  <rect x="25" y="115" width="240" height="10" fill="#EFB422" />
-  <text x="140" y="140" font-family="sans-serif" font-size="12" fill="#333" text-anchor="middle">Spillefladen (skrå)</text>
-  <text x="239" y="24" font-family="sans-serif" font-size="12" fill="#333" text-anchor="middle">Bagvæg</text>
-  <text x="20" y="128" font-family="sans-serif" font-size="12" fill="#333" text-anchor="middle" transform="rotate(-90 20 128)"></text>
-</svg>
-
-Sådan hænger delene sammen, set fra siden — en flad spilleflade, kanter langs alle sider så kuglen bliver på banen, og en hævet bagvæg for enden. Flippers, bumpers og andre detaljer kommer i senere sessioner.
+- Alle pirater har deres egen kopi af grundbanen i Tinkercad, navngivet efter vores faste struktur
+- Alle kender de fem store udfordringer i projektet, og kan forklare med egne ord hvorfor hver af dem er svær
+- Alle har målt deres bane op med Ruler-værktøjet og ved, om den holder sig inden for **A3-formatet**
+- Alle ved, at kuglen er en **metalkugle** — og har en idé om hvorfor det er vigtigt at vide allerede nu
 
 !!! example "Screenshot mangler her"
     **Filnavn:** `screenshot.png` (lægges i denne sessions egen mappe, ved siden af `index.md`)
 
-    **Skal vise:** Den færdige, grupperede pinball-bane i Tinkercad-editoren, set skråt oppefra, så bund, kanter og bagvæg alle er tydeligt synlige.
+    **Skal vise:** Grundbanen åbnet i Tinkercad-editoren, med Ruler-værktøjet aktiveret så banens længde og bredde er synlige som målsat linjer.
 
-    Når filen er lagt ind, erstattes denne boks med: `![Pinball-banens grove form i Tinkercad](screenshot.png)`
+    Når filen er lagt ind, erstattes denne boks med: `![Grundbanen målt op med Ruler-værktøjet](screenshot.png)`
 
 ## Trin-for-trin øvelse
 
-1. Opret et nyt design og navngiv det efter vores faste struktur: `CPR-[dit navn]-Pinballbane` (se session 1 hvis du er i tvivl om hvordan) — vi skal kunne finde det igen i session 5, når vi måler op til laser cut
-2. Byg **spillefladen**: start med en flad, aflang kasse liggende ned (fx ca. 200×120×5 mm) — det er selve banen, kuglen skal rulle på
-3. Tilføj **fire tynde kasser** langs kanterne af spillefladen (venstre, højre, top, bund), rejst lodret som lave "bander" — de holder kuglen på banen
-4. Marker en kant og spillefladen sammen, og brug **Align** til at centrere kanten præcist langs siden — gentag for alle fire kanter
-5. Tilføj en **højere kasse** for enden af banen som **bagvæg** — det bliver senere der, hvor point og lys skal sidde
-6. Marker *alle* former, der hører til banen, og brug **Group** til at samle dem til ét objekt
-7. Gem designet
+1. Underviseren har på forhånd designet **grundbanen** — den fælles pinball-bane, alle pirater skal bygge videre på resten af forløbet. Underviseren deler linket i dag.
+2. Åbn linket, og klik **"Copy and Tinker"** — det giver dig din egen, redigerbare kopi af grundbanen i dit eget Tinkercad.
+3. **Omdøb din kopi** efter vores faste struktur, fx `CPR-[dit navn]-Pinballbane` (se session 1, hvis du er i tvivl om hvordan) — vi skal kunne genkende og finde den igen senere.
+4. Fælles gennemgang i plenum: underviseren præsenterer **de fem store udfordringer**, vi skal løse hen over de næste sessioner — én ad gangen, ikke alle på én gang:
+      1. **Størrelse:** Banen skal kunne skæres på Coding Pirates' laser cutter, som maksimalt kan klare et stykke på **A3-format** (297 × 420 mm). Er banen større, kan den slet ikke laves.
+      2. **Flipperen:** Hvordan bygger vi en mekanisk arm, der faktisk kan bevæge sig, når den er 3D-printet? Det løser vi sammen i session 3.
+      3. **Startmekanismen:** Hvordan skyder vi kuglen af sted ind på banen? Det kommer i en senere session.
+      4. **Printerens byggevolumen:** 3D-printeren kan kun printe ting op til ca. **256 × 256 × 356 mm** ad gangen. Store dele, som fx siderne, skal måske deles op i flere stykker, der samles bagefter.
+      5. **Elektronik og sensor:** Kuglen på vores maskine er en **metalkugle**. Det bliver vigtigt, når Microbit-holdet senere skal finde ud af, hvordan micro:bit'en kan opdage, hvor kuglen er.
+5. Tryk **R** for at aktivere **Ruler**-værktøjet, og mål din banes længde og bredde.
+6. Sammenlign målene med A3 (297 × 420 mm). Er banen for stor, så brug **Scale**-værktøjet til at skalere den ned — hold **Shift** nede mens du trækker, så den skalerer proportionalt og ikke bliver skæv.
+7. Gem designet, når banen holder sig inden for A3.
 
-!!! note "Rigtig skrå bliver den først senere"
-    I dag bygger vi banen flad og lige, så det er nemt at holde styr på formerne. Vi vipper og vinkler den rigtige, fysiske bane, når vi samler den efter laser cut i session 6 — så husk ikke at bekymre dig om det endnu.
+!!! note "Vi løser ikke alle fem udfordringer i dag"
+    I dag handler det om at forstå udfordringerne og få styr på størrelsen. Flipper, startmekanisme, printervolumen og elektronik vender vi tilbage til, én ad gangen, i de kommende sessioner.
 
 ## Ekstra udfordringer
 
-Blevet færdig med kernedelen, og der er stadig tid tilbage? Prøv en eller flere af disse:
+Blevet færdig før tiden? Prøv en eller flere af disse:
 
-1. **Hældning:** dupliker dit design, og brug **Rotate** til at vippe hele banen let, så du kan se hvordan den kommer til at hælde, når den er færdig — slet kopien bagefter, hvis du vil beholde den flade version
-2. **Udgang forneden:** tilføj en lille åbning i bagkanten (en flad kasse sat til **Hole**), hvor kuglen kan falde ud, hvis den ikke bliver ramt
-3. **Marker fremtidige dele:** brug små, farvede cylindre til at markere, hvor du forestiller dig flippers og bumpers skal sidde senere — det gør det nemmere at planlægge session 3 og 4
-4. **Farvelægning:** prøv at give bund, kanter og bagvæg hver sin farve i Tinkercad, inden du grupperer dem
+1. Byg en simpel kasse i Tinkercad med præcis målene **256 × 256 × 356 mm** — så får du en fornemmelse af, hvor meget (eller lidt) plads printeren egentlig har til én del ad gangen
+2. Tegn dit eget bud på, hvordan en flipper kunne se ud og bevæge sig (på papir eller i Tinkercad) — vi bruger idéerne i session 3
+3. Hvis der er en magnet ved hånden: undersøg om den tiltrækker forskellige metalgenstande. Hvorfor tror du, det er relevant at vide, når kuglen i vores maskine er af metal?
+4. Prøv at skalere din bane op og ned et par gange med Scale-værktøjet, og brug Ruler til at tjekke, om den stadig rammer præcis A3
 
 ## ✅ Færdig når...
 
-- Din pinball-bane består af mindst 3 sammensatte former (spilleflade, kanter, bagvæg)
-- Du har brugt Align mindst én gang til at placere en form præcist
-- Alle former er samlet med Group til ét objekt
-- Filen er gemt med et navn du selv kan genkende
+- Du har din egen kopi af grundbanen i dit Tinkercad, navngivet efter vores faste struktur
+- Du har målt banen med Ruler-værktøjet, og ved om den holder sig inden for A3 (297 × 420 mm)
+- Du kan nævne mindst 3 af de 5 store udfordringer, og forklare kort hvorfor de er svære
 - **Hvis der var tid:** du har prøvet mindst én ekstra udfordring
 
 ## Noter
@@ -64,6 +56,6 @@ Blevet færdig med kernedelen, og der er stadig tid tilbage? Prøv en eller fler
 
 ## Reference
 
-- [Align It](https://www.tinkercad.com/learn/overview/OF8ZOFPL1W5N9DS) — officiel Tinkercad-lektion om Align-værktøjet
-- [Build a Fountain Using the Align Tool](https://www.tinkercad.com/learn/overview/OZB6S9MJ6WGJ8J6) — Align i praksis, sammensætning af flere former
-- [Making Everyday Objects: Part Two](https://www.tinkercad.com/learn/overview/OSIA5A8IRXTXH75) — officiel lektion om at bygge genkendelige objekter af grundformer
+- [Tinkertip: R is for Ruler](https://www.tinkercad.com/blog/tinkertip-r-is-for-ruler) — officiel gennemgang af Ruler-værktøjet
+- [Size It](https://www.tinkercad.com/learn/overview/OW5JHUFJJSUCGPF) — officiel Tinkercad-lektion om at skalere former
+- [Official Guide to Tinkercad Classrooms](https://www.tinkercad.com/blog/official-guide-to-tinkercad-classrooms) — om at dele designs og "Copy and Tinker"

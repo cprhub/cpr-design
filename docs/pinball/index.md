@@ -12,8 +12,8 @@ Op til 13 sessioners forløb for Pinball-holdets pirater på 10-12 år, ingen fo
 | Session | Fokus | Hold |
 |---|---|---|
 | 1 | [Introduktion til Tinkercad — øvede laver Kaptajn Hack med QR-kode i nakken](session-01/index.md) | Design |
-| 2 | [Design af kabinet/bane – grov form](session-02/index.md) | Design |
-| 3 | Flippers/vipper – mekanisk design | Design |
+| 2 | [Designfasen — grundbanen og de store udfordringer](session-02/index.md) | Design |
+| 3 | [Flipperen — mekanisk design](session-03/index.md) | Design |
 | 4 | Forhindringer, buffere og bumpers | Design |
 | 5 | Mål op til laser cut af bundplade/sider | Design |
 | 6 | Saml den fysiske bane | Design |
