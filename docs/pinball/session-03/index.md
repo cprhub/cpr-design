@@ -33,7 +33,7 @@ Skitsen herover viser princippet: flipperen er en aflang form, der roterer omkri
 
 1. **Prøv det selv først:** spil et par minutter i et af disse gratis web-pinball-spil (se Reference nedenfor for links) — læg særligt mærke til, hvad flipperne gør: de sparker kuglen tilbage op på banen, hver gang den er ved at rulle ud forneden. Det er den vigtigste opgave, vores egen flipper skal kunne løse
 2. Opret et nyt design, og navngiv det efter vores faste struktur: `CPR-[dit navn]-Flipper` (se session 1, hvis du er i tvivl om hvordan)
-2. Byg selve **armen**: brug en aflang, tynd kasse eller en trekantet form (**Shapes → Polygon**, tilpasset til 3-4 hjørner), der er smallest i den ene ende og bredest i den anden — det er selve flipperen, kuglen skal ramme. Sigt efter en længde på ca. **60-80 mm**, så den passer i forhold til grundbanen (som er ca. 281 × 410 mm)
+2. Byg selve **armen**: brug en aflang, tynd kasse eller en trekantet form (**Shapes → Polygon**, tilpasset til 3-4 hjørner), der er smallest i den ene ende og bredest i den anden — det er selve flipperen, kuglen skal ramme. Sigt efter en længde på ca. **60-80 mm**, så den passer i forhold til grundbanen (som er skaleret til præcis **297 × 420 mm**, dvs. fylder hele A3-formatet)
 3. I den **brede ende** af armen: tilføj en cylinder, sæt den til **Hole**, og placér den centreret i enden — det bliver hullet, flipperen senere skal rotere omkring på en akse. Lav hullet ca. **4-5 mm** i diameter, så det passer til en tynd akse eller bolt
 4. Brug **Align** til at centrere hullet præcist i den brede ende af armen
 5. Marker arm og hul sammen, og brug **Group**, så hullet skæres ud og flipperen bliver ét samlet objekt
