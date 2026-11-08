@@ -1,34 +1,27 @@
 # CODING PIRATES RØDOVRE
 
-Alt undervisningsmateriale til Coding Pirates Rødovres hold, samlet ét sted.
+Velkommen til Coding Pirates Rødovres undervisningsmateriale!
 
-Vælg dit hold i menuen ovenfor, eller herunder. Under hvert hold finder du holdets projekter.
+Coding Pirates er en forening for børn og unge, der vil bygge, kode og opfinde ting med teknologi — sammen med frivillige voksne. Her i Rødovre mødes vi på hold, og hvert hold arbejder med sine egne projekter gennem en sæson.
 
-## Hold
+På dette site finder du alt materialet til holdene: hvert projekt er delt op i **sessioner**, og hver session har sin egen side med mål, en trin-for-trin øvelse og ekstra udfordringer. Materialet er skrevet, så en frivillig kan undervise direkte efter det, og så piraterne selv kan følge med.
 
-### Microbitter
+## Vælg dit hold
 
-Microbitternes materiale ligger på deres eget site: [cpr-microbit](https://itsgauravsaxena.github.io/cpr-microbit/).
+Klik på dit hold for at se de projekter, holdet arbejder med.
 
-### Megabitter Design
-
-| Projekt | Status |
+| Hold | Hvad laver holdet? |
 |---|---|
-| [**Juletog**](juletog/index.md) | ✅ Tilgængelig |
-| [**Pinball**](pinball/index.md) | 🚧 Under opbygning |
-| [**FPV Car Race**](fpv-race/index.md) (sammen med Gigabitter) | 🚧 Under opbygning |
+| [**Microbitter**](microbitter/index.md) | Programmerer micro:bit — en lille computer med lys, knapper og sensorer |
+| [**Megabitter Design**](megabitter-design/index.md) | Designer og 3D-printer ting, der kan bruges i den virkelige verden |
+| [**Megabitter Game**](megabitter-game/index.md) | Laver spil |
+| [**Gigabitter**](gigabitter/index.md) | Bygger elektronik og skriver kode, der får ting til at virke |
 
-### Megabitter Game
+Du kan også vælge dit hold i menuen øverst på siden.
 
-Intet materiale her endnu. Se [Megabitter Games side](megabitter-game/index.md).
+## Godt at vide
 
-### Gigabitter
-
-| Projekt | Status |
-|---|---|
-| [**FPV Car Race**](fpv-race/index.md) (sammen med Megabitter Design) | 🚧 Under opbygning |
-
-## Sådan er materialet organiseret
-
-- Hvert **projekt** har sin egen mappe (fx `juletog/`, `pinball/`, `fpv-race/`), og hver **session** har sin egen side med mål, en illustration og en trin-for-trin øvelse.
-- Dansk er kilde-sproget. Brug 🌐-ikonet i toppen for at skifte sprog, når engelske oversættelser findes.
+- Alt materiale bruger **gratis programmer**, der virker på både Windows og Mac.
+- Nogle projekter laves af to hold sammen. Så står projektet på begge holds forsider.
+- Dansk er kildesproget. Brug sprog-ikonet øverst for at skifte sprog, når engelske oversættelser findes.
+- Vil du vide mere om Coding Pirates Rødovre, eller have en plads på et hold? Se [cpirates.dk](https://cpirates.dk/).

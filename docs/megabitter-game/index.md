@@ -1,5 +1,9 @@
 # MEGABITTER GAME
 
-Her kommer Megabitter Games projekter til at ligge.
+Megabitter Game laver spil.
 
-Holdet har ikke noget materiale på sitet endnu. Når det første projekt er klar, finder du det her.
+Holdet har ingen projekter på sitet endnu. Når det første projekt er klar, finder du det her.
+
+| Projekt | Hvad bygger vi? | Status |
+|---|---|---|
+| *Ingen projekter endnu* | | |

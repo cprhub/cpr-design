@@ -46,7 +46,7 @@ plugins:
 
 nav:
   - Forside: index.md
-  - Microbitter: https://itsgauravsaxena.github.io/cpr-microbit/
+  - Microbitter: microbitter/index.md
   - Megabitter Design:
       - Megabitter Design: megabitter-design/index.md
       - Juletog:
