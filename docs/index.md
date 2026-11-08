@@ -2,7 +2,7 @@
 
 Alt undervisningsmateriale til Coding Pirates Rødovres hold, samlet ét sted.
 
-Vælg et projekt i menuen ovenfor, eller find dit hold herunder.
+Vælg dit hold i menuen ovenfor, eller herunder. Under hvert hold finder du holdets projekter.
 
 ## Hold
 

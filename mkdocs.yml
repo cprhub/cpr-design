@@ -45,34 +45,36 @@ plugins:
 
 nav:
   - Forside: index.md
-  - Juletog:
-      - Oversigt: juletog/index.md
-      - Session 1 · Opsætning & Tinkercad: juletog/session-01-opsaetning/index.md
-      - Session 2 · Lokomotivets grove form: juletog/session-02-lokomotiv-grov-form/index.md
-  - Pinball:
-      - Oversigt: pinball/index.md
-      - Session 1 · Opsætning & Tinkercad: pinball/session-01/index.md
-      - Session 2 · Designfasen: pinball/session-02/index.md
-      - Session 3 · Flipperen: pinball/session-03/index.md
-      - Session 4: pinball/session-04/index.md
-      - Session 5: pinball/session-05/index.md
-      - Session 6: pinball/session-06/index.md
-      - Session 7: pinball/session-07/index.md
-      - Session 8: pinball/session-08/index.md
-      - Session 9: pinball/session-09/index.md
-      - Session 10: pinball/session-10/index.md
-      - Session 11: pinball/session-11/index.md
-      - Session 12: pinball/session-12/index.md
-      - Session 13: pinball/session-13/index.md
-  - FPV Car Race:
-      - Oversigt: fpv-race/index.md
-      - Byggevejledning: fpv-race/byggevejledning/index.md
-      - Design-holdet:
-          - Oversigt: fpv-race/design/index.md
+  - Megabitter Design:
+      - Juletog:
+          - Oversigt: juletog/index.md
+          - Session 1 · Opsætning & Tinkercad: juletog/session-01-opsaetning/index.md
+          - Session 2 · Lokomotivets grove form: juletog/session-02-lokomotiv-grov-form/index.md
+      - Pinball:
+          - Oversigt: pinball/index.md
+          - Session 1 · Opsætning & Tinkercad: pinball/session-01/index.md
+          - Session 2 · Designfasen: pinball/session-02/index.md
+          - Session 3 · Flipperen: pinball/session-03/index.md
+          - Session 4: pinball/session-04/index.md
+          - Session 5: pinball/session-05/index.md
+          - Session 6: pinball/session-06/index.md
+          - Session 7: pinball/session-07/index.md
+          - Session 8: pinball/session-08/index.md
+          - Session 9: pinball/session-09/index.md
+          - Session 10: pinball/session-10/index.md
+          - Session 11: pinball/session-11/index.md
+          - Session 12: pinball/session-12/index.md
+          - Session 13: pinball/session-13/index.md
+      - FPV Car Race:
+          - Projektoversigt: fpv-race/index.md
+          - Megabitter Designs del: fpv-race/design/index.md
           - Session 1 · Velkommen til Layerling: fpv-race/design/session-01/index.md
-      - Gigabitterne:
-          - Oversigt: fpv-race/gigabitterne/index.md
+  - Gigabitter:
+      - FPV Car Race:
+          - Gigabitters del: fpv-race/gigabitterne/index.md
           - Session 1 · Få liv i ESP32-S3: fpv-race/gigabitterne/session-01/index.md
+          - Byggevejledning: fpv-race/byggevejledning/index.md
+  - Microbitter: https://itsgauravsaxena.github.io/cpr-microbit/
 
 markdown_extensions:
   - admonition
