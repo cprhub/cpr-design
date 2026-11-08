@@ -8,11 +8,12 @@ Sitet bygges med **MkDocs Material** og udgives via GitHub Pages (se `.github/wo
 Hvert hold har sin egen mappe direkte under `docs/` (ikke sæson-opdelt):
 - `docs/juletog/` — Design-holdets efterår 2026-forløb, se afsnittet "Juletog" nedenfor
 - `docs/pinball/` — Pinball-holdets efterår 2026-forløb, se afsnittet "Pinball" nedenfor
+- `docs/fpv-race/` — FPV Car Race, fælles projekt for Design-holdet og Gigabitterne, se afsnittet "FPV Car Race" nedenfor
 
 Reference/inspiration (anden holdleders materiale, samme forening): https://itsgauravsaxena.github.io/cpr-microbit/ — brug den til at forstå tone, opbygning og niveau.
 
 ## Målgruppe (gælder for alt indhold)
-- Børn på **10-12 år**.
+- Børn på **10-12 år** (undtagelse: Gigabitterne i FPV Car Race er et ældre hold, se afsnittet "FPV Car Race").
 - **Altid begynderniveau** — ingen forudsætninger antages, heller ikke fra tidligere sessioner, da nye pirater kan komme til undervejs. Byg kort genopfriskning ind, hvis en session bygger på noget tidligere.
 - Sprog: **dansk er kildesprog** (engelsk oversættelse findes via i18n-pluginnet, når den er lavet). Tone: legende, opmuntrende "sørøver"-stil som resten af Coding Pirates — kort, konkret, lidt humor. **Ingen emojis** (heller ikke i overskrifter/pitch) — brug ordvalg og "!" til at bære tonen i stedet. Undtagelsen er ✅ som fast statusikon i "✅ Færdig når..."-overskrifter og status-kolonner, det er struktur, ikke tone. Undgå at virke nedladende for 12-årige.
 - **Terminologi:** brug altid **"session"**, aldrig "uge"/week — mappenavne følger `session-NN(-navn)/index.md`. Denne regel gælder alle hold i dette repo.
@@ -22,6 +23,14 @@ Reference/inspiration (anden holdleders materiale, samme forening): https://itsg
 - **Kun gratis eller open source programmer.** Aldrig noget der kræver betalt licens/abonnement/"pro"-version for at gennemføre øvelsen.
   - Hvis et værktøj har både gratis og betalt niveau: undersøg og bekræft, at gratis-niveauet er nok til øvelsen — ellers find et alternativ.
 - Ved tvivl om pris eller platformsunderstøttelse: **slå det op**, gæt ikke.
+
+## 3D-designværktøj: Layerling (gælder hele Design-holdet)
+Design-holdet skiftede **2026-11-08** fra Tinkercad til **[Layerling](https://layerling.com/)** — gratis, open source (AGPL-3.0), kører i browseren uden konto, betjenes som Tinkercad. Alt nyt materiale skrives til Layerling med de **danske knapnavne** (fx Tilføj form, Kasse, Solid/Hul, Gruppér, Bundt, Justér, Rund, Eksportér, Omdøb — slå dem op i `apps/web/src/lib/messages.da.ts` i Layerling-repoet eller i den danske vejledning https://layerling.com/vejledning/, gæt ikke).
+
+- **Designs gemmes kun i browseren** på den enkelte computer. Hver session skal derfor slutte med en sikkerhedskopi: **Eksportér → LYL → Gem layerling-design** (`.lyl`-fil).
+- Omdøbning sker på startsiden (designets menu → **Omdøb**); ved eksport står navnet i feltet **Filnavn**. Filnavne-konventionen `CPR-[elevnavn]-[navn]` gælder både designnavn og eksporterede filer.
+- Eksport til print: **3MF** (beholder farver/dele) eller STL.
+- **Juletog og Pinball er endnu ikke skrevet om**: deres eksisterende sessioner nævner stadig Tinkercad (Tinkercad-klasser, Learn-tutorials, Shape Generators/QR Code). De skal omskrives til Layerling — afklar med brugeren, om det skal ske nu eller først fra næste sæson, da efterårets forløb allerede er i gang.
 
 ## Fælles skabelon for en sessions materiale
 Hver sessions materiale skal indeholde:
@@ -41,7 +50,7 @@ Hver sessions materiale skal indeholde:
 ## Juletog (Design-holdet)
 Design-holdets efterår 2026-forløb er **ét sammenhængende 3D-design-projekt**, ikke en blanding af discipliner: piraterne designer og 3D-printer deres eget **LEGO-kompatible juletog** i **Tinkercad**, inspireret af det klassiske LEGO-juletog. Toget skal kunne køre på rigtige LEGO-skinner (sporvidde ca. 37,5 mm), så forløbet inkluderer også at måle, designe efter mål, og teste/justere print undervejs. Se den fulde sessionsoversigt i `docs/juletog/index.md`.
 
-- **Software:** Tinkercad (gratis).
+- **Software:** Tinkercad (gratis) i det eksisterende materiale — skal skiftes til Layerling, se afsnittet "3D-designværktøj: Layerling".
 - **Udstyr:** Egne bærbare (Windows/Mac) + **Bambu Lab A1 Mini** (holdets flerfarvede printer, bruges løbende, maks. 1 time pr. print) + **TekX-printere** (eksterne, én farve ad gangen, til store funktionelle dele — besøg i session 7, 10 og 11).
 - **Metode:** Hver del af toget designes som sin egen fil/objekt, så den kan printes/males i egen farve.
 - **13-sessioners struktur:** Session 1 er en "quick win" — noget der virker med det samme og giver mestringsfølelse. Gradvist stigende sværhedsgrad, men hver session skal stadig kunne stå alene for et barn der er nyt. Session 13: **showcase**, hvor børnene viser deres projekter.
@@ -69,10 +78,22 @@ Pinball-holdet skal bygge en **fysisk pinball-maskine** over **max 13 sessioner*
 
 **Foreløbig sessionsoversigt** (antagelse, se `docs/pinball/index.md` for den fulde tabel med `!!! note`-markering): session 1 er introduktion til Tinkercad (samme som Juletogs session 1, øvede laver Kaptajn Hack med QR-kode i nakken, se dens egen status nedenfor), session 2-6 er fysisk design/bygning (kabinet, flippers, bumpers, laser cut, samling), session 7-11 er micro:bit-elektronik (i samarbejde med Microbit-holdet), session 12 er finish, session 13 er showcase.
 
-**Status:** Session 1-2 er skrevet. Session 3-13 mangler stadig (kun titler i sessionsoversigt-tabellen i `docs/pinball/index.md`).
+**Status:** Session 1-3 er skrevet. Session 4-13 mangler stadig (kun titler i sessionsoversigt-tabellen i `docs/pinball/index.md`).
+
+## FPV Car Race (Design-holdet + Gigabitterne)
+Fælles projekt for to hold: FPV-racerbiler med kamera, styret med rat og pedaler, med video vist i hjemmebyggede VR-briller. Se `docs/fpv-race/index.md`.
+
+- **Design-holdet** designer og 3D-printer selve bilen i Layerling (karosseri, elektronikbakke, kameraholder, pynt). `docs/fpv-race/design/`
+- **Gigabitterne** (andet, **ældre** hold — præcis alder/niveau ikke afklaret) laver styring og video: ESP32-S3 med kamera i bilen, ESP32-S3 DevKitC-1 i konsollen, potentiometre som rat/pedaler, to ST7789-skærme i briller, Arduino IDE (C++). `docs/fpv-race/gigabitterne/`
+- **Byggevejledningen** (`docs/fpv-race/byggevejledning/index.md`) indeholder indkøbsliste, ledningsføring og den komplette kode til bil og konsol. Den er skrevet om fra en ekstern beskrivelse og rettet: video tilføjet (bil = WiFi-access point, sender JPEG over TCP; konsol viser på begge skærme), styring over UDP i stedet for ESP-NOW, motor IN2 flyttet fra GPIO 4 (kamera) til GPIO 14, nødstop efter 500 ms, L9110S som motordriver, `MAX_FART`-loft. **Koden er ikke testet på hardware** — ret siden til, når den er afprøvet.
+- Sessioner nævner hvilken del af byggevejledningens kode de bygger op; sessionssider skal ikke duplikere hele koden.
+- **Foreløbige antagelser** (markeret med `!!! note`): forår 2027, op til 13 sessioner, fælles sessioner 10, 11 og 13, én bil pr. gruppe på 2-3 pirater. Ikke koordineret med Gigabitternes holdleder.
+- Mappestruktur: `docs/fpv-race/design/session-NN/index.md` og `docs/fpv-race/gigabitterne/session-NN/index.md`. Opret kun mapper for skrevne sessioner (ingen tomme skabeloner).
+
+**Status:** Session 1 er skrevet for begge hold. Session 2-13 mangler (kun titler i de to oversigter).
 
 ## Arbejdsgang for Claude Code
 - Slå altid officielle, opdaterede kilder op, når du foreslår værktøjer, tutorials eller links — opfind ikke indhold fra hukommelsen.
-- Følg repoets eksisterende mappestruktur og filnavngivning for nye sessioner/sider (`docs/juletog/session-NN-navn/index.md` eller `docs/pinball/session-NN/index.md`).
+- Følg repoets eksisterende mappestruktur og filnavngivning for nye sessioner/sider (`docs/juletog/session-NN-navn/index.md`, `docs/pinball/session-NN/index.md` eller `docs/fpv-race/<hold>/session-NN/index.md`).
 - Ved manglende info (udstyr, hvilken detalje en given session dækker): spørg kort, eller lav en tydeligt markeret antagelse og forklar den.
 - Filer med lokale stier fra en tidligere Claude Desktop-session (fx `/mnt/user-data/outputs/...`) findes ikke i dette repo — flag det og foreslå en erstatning frem for at antage filen findes.

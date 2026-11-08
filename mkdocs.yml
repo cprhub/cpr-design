@@ -64,6 +64,15 @@ nav:
       - Session 11: pinball/session-11/index.md
       - Session 12: pinball/session-12/index.md
       - Session 13: pinball/session-13/index.md
+  - FPV Car Race:
+      - Oversigt: fpv-race/index.md
+      - Byggevejledning: fpv-race/byggevejledning/index.md
+      - Design-holdet:
+          - Oversigt: fpv-race/design/index.md
+          - Session 1 · Velkommen til Layerling: fpv-race/design/session-01/index.md
+      - Gigabitterne:
+          - Oversigt: fpv-race/gigabitterne/index.md
+          - Session 1 · Få liv i ESP32-S3: fpv-race/gigabitterne/session-01/index.md
 
 markdown_extensions:
   - admonition

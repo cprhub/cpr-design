@@ -1,6 +1,6 @@
 # cpr-design
 
-Undervisningsmateriale til Coding Pirates Rødovres hold (Juletog og Pinball)
+Undervisningsmateriale til Coding Pirates Rødovres hold (Juletog, Pinball og FPV Car Race)
 — bygget med [MkDocs Material](https://squidfunk.github.io/mkdocs-material/)
 og udgivet via GitHub Pages, samme opsætning som søsterprojektet
 [cpr-microbit](https://itsgauravsaxena.github.io/cpr-microbit/).
@@ -33,6 +33,13 @@ docs/
   pinball/
     index.md                        # sessionsoversigt (indhold mangler stadig)
     session-01/index.md … session-13/index.md   # sessionssider (tomme skabeloner)
+  fpv-race/
+    index.md                        # fælles oversigt for Design-holdet + Gigabitterne
+    byggevejledning/index.md        # indkøbsliste, ledninger og al koden (til underviserne)
+    design/index.md                 # Design-holdets sessionsoversigt (Layerling)
+    design/session-01/index.md
+    gigabitterne/index.md           # Gigabitternes sessionsoversigt (ESP32-S3)
+    gigabitterne/session-01/index.md
 ```
 
 Design følger [Coding Pirates Danmarks designguide](https://codingpirates.dk/designguide/)
