@@ -1,0 +1,58 @@
+/* Coding Pirates Danmark — officielle designfarver
+   Kilde: https://codingpirates.dk/farver/ og https://codingpirates.dk/designguide/
+   Primær blå: #25A2CE   Primær gul: #EFB422
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Lato:ital,wght@0,400;0,700;1,400&display=swap');
+
+:root {
+  --cp-blue: #25A2CE;
+  --cp-yellow: #EFB422;
+}
+
+/* Registrerer en "custom" farve-palette til Material-temaet, se mkdocs.yml */
+[data-md-color-primary="custom"] {
+  --md-primary-fg-color: var(--cp-blue);
+  --md-primary-fg-color--light: #4fb6da;
+  --md-primary-fg-color--dark: #1c7f9e;
+  --md-primary-bg-color: #ffffff;
+}
+
+[data-md-color-accent="custom"] {
+  --md-accent-fg-color: var(--cp-yellow);
+  --md-accent-fg-color--transparent: #efb42233;
+  --md-accent-bg-color: #1b1b1b;
+}
+
+/* Overskrifter i Bungee (kun versaler, jf. designguiden) */
+h1, h2, h3, h4,
+.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4 {
+  font-family: "Bungee", "Segoe UI", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+}
+
+/* Brødtekst i Lato */
+body, .md-typeset {
+  font-family: "Lato", "Segoe UI", sans-serif;
+}
+
+/* Site-titlen i headeren følger også Bungee */
+.md-header__title {
+  font-family: "Bungee", sans-serif;
+  text-transform: uppercase;
+}
+
+/* "Færdig når..."-boks — grøn admonition-genbrug til succeskriterier */
+.md-typeset .admonition.success,
+.md-typeset .admonition.done {
+  border-color: var(--cp-blue);
+}
+.md-typeset .success > .admonition-title,
+.md-typeset .done > .admonition-title {
+  background-color: #25a2ce22;
+}
+.md-typeset .success > .admonition-title::before,
+.md-typeset .done > .admonition-title::before {
+  background-color: var(--cp-blue);
+}
