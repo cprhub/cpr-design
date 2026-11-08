@@ -8,7 +8,7 @@ På dette site finder du alt materialet til holdene: hvert projekt er delt op i 
 
 ## Vælg dit hold
 
-Klik på dit hold for at se de projekter, holdet arbejder med.
+Klik på dit hold for at komme til holdets egen forside.
 
 | Hold | Hvad laver holdet? |
 |---|---|
@@ -22,6 +22,5 @@ Du kan også vælge dit hold i menuen øverst på siden.
 ## Godt at vide
 
 - Alt materiale bruger **gratis programmer**, der virker på både Windows og Mac.
-- Nogle projekter laves af to hold sammen. Så står projektet på begge holds forsider.
 - Dansk er kildesproget. Brug sprog-ikonet øverst for at skifte sprog, når engelske oversættelser findes.
 - Vil du vide mere om Coding Pirates Rødovre, eller have en plads på et hold? Se [cpirates.dk](https://cpirates.dk/).
