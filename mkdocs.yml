@@ -21,6 +21,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.indexes
     - navigation.top
     - search.suggest
     - search.highlight
@@ -47,6 +48,7 @@ nav:
   - Forside: index.md
   - Microbitter: https://itsgauravsaxena.github.io/cpr-microbit/
   - Megabitter Design:
+      - Megabitter Design: megabitter-design/index.md
       - Juletog:
           - Oversigt: juletog/index.md
           - Session 1 · Opsætning & Tinkercad: juletog/session-01-opsaetning/index.md
@@ -72,6 +74,7 @@ nav:
           - Session 1 · Velkommen til Layerling: fpv-race/design/session-01/index.md
   - Megabitter Game: megabitter-game/index.md
   - Gigabitter:
+      - Gigabitter: gigabitter/index.md
       - FPV Car Race:
           - Gigabitters del: fpv-race/gigabitterne/index.md
           - Session 1 · Få liv i ESP32-S3: fpv-race/gigabitterne/session-01/index.md
