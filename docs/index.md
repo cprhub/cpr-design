@@ -20,7 +20,7 @@ Microbitternes materiale ligger på deres eget site: [cpr-microbit](https://itsg
 
 ### Megabitter Game
 
-Intet materiale her endnu.
+Intet materiale her endnu. Se [Megabitter Games side](megabitter-game/index.md).
 
 ### Gigabitter
 
