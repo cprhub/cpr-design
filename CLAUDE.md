@@ -13,7 +13,7 @@ Hvert hold har sin egen mappe direkte under `docs/` (ikke sæson-opdelt):
 **Coding Pirates Rødovres hold** (rettet af brugeren 2026-11-08 — Juletog, Pinball og FPV Car Race er *projekter*, ikke hold):
 - **Microbitter** — eget site (cpr-microbit, link nedenfor). "Microbit-holdet" i ældre tekst = Microbitter.
 - **Megabitter Design** — Juletog, Pinball og FPV Car Race. "Design-holdet" i eksisterende tekst = Megabitter Design.
-- **Megabitter Game** — intet materiale i dette repo endnu.
+- **Megabitter Game** — ingen projekter endnu, men har altid sin egen fane og pladsholderside (`docs/megabitter-game/index.md`). Alle fire hold skal altid stå i menuen, i rækkefølgen Microbitter, Megabitter Design, Megabitter Game, Gigabitter.
 - **Gigabitter** — FPV Car Race (sammen med Megabitter Design).
 
 Forsiden (`docs/index.md`) og topmenuen (`nav` i `mkdocs.yml`) grupperer projekterne under holdene — fanerne er hold, ikke projekter. Opdatér begge, når et projekt eller hold kommer til.
