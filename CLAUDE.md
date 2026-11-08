@@ -10,6 +10,14 @@ Hvert hold har sin egen mappe direkte under `docs/` (ikke sæson-opdelt):
 - `docs/pinball/` — Pinball-holdets efterår 2026-forløb, se afsnittet "Pinball" nedenfor
 - `docs/fpv-race/` — FPV Car Race, fælles projekt for Design-holdet og Gigabitterne, se afsnittet "FPV Car Race" nedenfor
 
+**Coding Pirates Rødovres hold** (rettet af brugeren 2026-11-08 — Juletog, Pinball og FPV Car Race er *projekter*, ikke hold):
+- **Microbitter** — eget site (cpr-microbit, link nedenfor). "Microbit-holdet" i ældre tekst = Microbitter.
+- **Megabitter Design** — Juletog, Pinball og FPV Car Race. "Design-holdet" i eksisterende tekst = Megabitter Design.
+- **Megabitter Game** — intet materiale i dette repo endnu.
+- **Gigabitter** — FPV Car Race (sammen med Megabitter Design).
+
+Forsiden (`docs/index.md`) grupperer projekterne under holdene. Opdatér den, når et projekt eller hold kommer til.
+
 Reference/inspiration (anden holdleders materiale, samme forening): https://itsgauravsaxena.github.io/cpr-microbit/ — brug den til at forstå tone, opbygning og niveau.
 
 ## Målgruppe (gælder for alt indhold)
