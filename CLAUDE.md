@@ -16,7 +16,7 @@ Hvert hold har sin egen mappe direkte under `docs/` (ikke sæson-opdelt):
 - **Megabitter Game** — intet materiale i dette repo endnu.
 - **Gigabitter** — FPV Car Race (sammen med Megabitter Design).
 
-Forsiden (`docs/index.md`) grupperer projekterne under holdene. Opdatér den, når et projekt eller hold kommer til.
+Forsiden (`docs/index.md`) og topmenuen (`nav` i `mkdocs.yml`) grupperer projekterne under holdene — fanerne er hold, ikke projekter. Opdatér begge, når et projekt eller hold kommer til.
 
 Reference/inspiration (anden holdleders materiale, samme forening): https://itsgauravsaxena.github.io/cpr-microbit/ — brug den til at forstå tone, opbygning og niveau.
 
